@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">I'm Chesta Ridho, a passionate Frontend Developer and a student eager to explore the world of web development! I’m currently learning frontend technologies while dipping my toes into backend development to become a well-rounded developer.</h3>
+<p align="left">I'm Chesta Ridho, a passionate Frontend Developer and a student eager to explore the world of web development! I’m currently learning frontend technologies while dipping my toes into backend development to become a well-rounded developer.</p>
 
 ###
 
