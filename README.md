@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://w.wallhaven.cc/full/ex/wallhaven-exmqvl.jpg"  />
+  <img height="300" src="https://w.wallhaven.cc/full/ex/wallhaven-exmqvl.jpg"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
   <img width="9" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="35" alt="css logo"  />
@@ -46,7 +46,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chstridho&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chstridho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
