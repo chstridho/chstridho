@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://w.wallhaven.cc/full/ex/wallhaven-exmqvl.jpg"  />
+  <img height="300" width="100" src="https://w.wallhaven.cc/full/ex/wallhaven-exmqvl.jpg"  />
 </div>
 
 ###
