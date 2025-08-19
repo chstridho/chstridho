@@ -8,11 +8,7 @@
 
 ###
 
-<p align="left">I'm Chesta Ridho, an aspiring Frontend Developer and an SMK student deeply passionate about web development. Currently, I’m honing my skills in modern frontend technologies (HTML, CSS, JavaScript, and frameworks) while also exploring backend fundamentals to grow into a versatile full-stack developer.
-
-I thrive on turning ideas into functional, user-friendly interfaces and am committed to continuous learning—whether through projects, collaborations, or open-source contributions. My goal is to build solutions that are not just efficient, but also delightful to use.
-
-When I’m not coding, you’ll find me experimenting with new tools, dissecting UI designs, or sharing knowledge with peers. Let’s connect and grow together!</p>
+<p align="left">I'm Chesta Ridho, an SMK student and passionate Frontend Developer dedicated to mastering web technologies. Currently focusing on frontend development while exploring backend fundamentals to grow into a versatile full-stack developer. Committed to continuous learning through practical projects and collaborative problem-solving.</p>
 
 ###
 
