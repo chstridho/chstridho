@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Chesta Ridho, an SMK student and passionate Frontend Developer dedicated to mastering web technologies. Currently focusing on frontend development while exploring backend fundamentals to grow into a versatile full-stack developer. Committed to continuous learning through practical projects and collaborative problem-solving.</p>
+<p align="left">I'm Chesta Ridho, an vocational high school student and passionate Frontend Developer dedicated to mastering web technologies. Currently focusing on frontend development while exploring backend fundamentals to grow into a versatile full-stack developer. Committed to continuous learning through practical projects and collaborative problem-solving.</p>
 
 ###
 
